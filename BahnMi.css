@@ -13,9 +13,10 @@
   left: 50%;
   transform: translate(-50%, -50%);
   font-family: Georgia, 'Times New Roman', Times, serif;
-  font-size: 112pt;
+  font-size: 60pt;
   color:white;
 }
+
 .instrucDiv{
     height: 300px;
     justify-content: center;
