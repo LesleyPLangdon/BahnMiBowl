@@ -1,0 +1,36 @@
+#imagecontainer {
+    position: relative;
+    text-align: center;
+    color: white;
+   
+}
+#headerimage{
+    max-width: 100%;
+}
+.headertext {
+  position: absolute;
+  top: 35%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 112pt;
+  color:white;
+}
+.instrucDiv{
+    height: 300px;
+    justify-content: center;
+    
+}
+.instructPic {
+    position:relative;
+    max-width: 33%;
+    height: 300px;
+    float: left;
+}
+.instrucText {
+    position: relative;
+    font-size: 18pt;
+    max-width: 55%;
+    
+    margin-left: 40%;
+}
